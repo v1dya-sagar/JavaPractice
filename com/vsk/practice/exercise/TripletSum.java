@@ -47,7 +47,7 @@ public class TripletSum {
     }
 
     public static void main(String[] args) {
-        int[] arr = {1, 1, 1, 1, 1, 1, 1, 1};
+        int[] arr = {1, 1, 0, 2, 1, 5, 2, 3};
         int targetSum = 3;
 
         List<List<Integer>> triplets = findTriplets(arr, targetSum);

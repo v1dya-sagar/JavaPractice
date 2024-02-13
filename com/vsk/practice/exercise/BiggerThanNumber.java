@@ -2,24 +2,24 @@ package com.vsk.practice.exercise;
 
 public class BiggerThanNumber {
     public static void main(String[] args) {
-        int[] arrayOfElements = {8, 1, 4, 6, 9, 5};
-        for (int j = 0; j < arrayOfElements.length; j++) {
+        int[] givenArray = {8, 1, 4, 6, 9, 5};
+        for (int j = 0; j < givenArray.length; j++) {
             int next = -1;
-            if (j == arrayOfElements.length - 1) {
-                for (int i = arrayOfElements.length - 2; i >= 0; i++) {
-                    if (arrayOfElements[i] > arrayOfElements[j]) {
-                        next = arrayOfElements[i];
+            if (j == givenArray.length - 1) {
+                for (int i = givenArray.length - 2; i >= 0; i++) {
+                    if (givenArray[i] > givenArray[j]) {
+                        next = givenArray[i];
                         break;
                     }
                 }
             }
-                for (int i = j + 1; i < arrayOfElements.length; i++) {
-                    if (arrayOfElements[i] > arrayOfElements[j]) {
-                        next = arrayOfElements[i];
+                for (int i = j + 1; i < givenArray.length; i++) {
+                    if (givenArray[i] > givenArray[j]) {
+                        next = givenArray[i];
                         break;
                     }
                 }
-                System.out.println(arrayOfElements[j] + " -> " + next);
+                System.out.println(givenArray[j] + " -> " + next);
             }
         }
     }

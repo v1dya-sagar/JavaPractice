@@ -1,5 +1,7 @@
 package com.vsk.practice.friends;
-    
-    public class shape {
+
+import org.w3c.dom.ls.LSOutput;
+
+public class shape {
 
     }
