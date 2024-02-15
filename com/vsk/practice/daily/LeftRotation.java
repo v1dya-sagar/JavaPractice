@@ -5,6 +5,7 @@ import java.util.List;
 
 public class LeftRotation {
     public static void main(String[] args) {
+        //older logic
         ArrayList<Integer> arrayList = new ArrayList<>();
         arrayList.add(1);
         arrayList.add(2);
