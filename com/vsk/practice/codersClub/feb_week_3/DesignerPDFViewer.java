@@ -10,6 +10,7 @@ public class DesignerPDFViewer {
                 max = a[c - 'a'];
             }
         }
+        // to get result
         System.out.println(max * s.length());
     }
 }
