@@ -9,7 +9,7 @@ public class Patterns_TUF {
 //        print2(n);
 //        print3(n);
 //        print4(n);
-        print5(n);
+//        print5(n);
     }
 
     public static void print1(int n){
