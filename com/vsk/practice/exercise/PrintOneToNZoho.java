@@ -3,6 +3,20 @@ package com.vsk.practice.exercise;
 import java.util.Scanner;
 
 public class PrintOneToNZoho {
+
+//    Print 1to N - Digits Count [ZOHO]
+//    A positive integer N is passed as the input. If we print all the numbers from 1 to N continuosly, the program must find the number of characters(dig1‘ts) C printed and print the count C as the output-
+//    Input Format:
+//    The first line contains N.
+//    Output Format:
+//    The first line contains C.
+//    Boundary Conditions:
+//            1 <= N <= 9999999
+//    Example Input/Output 1:
+//    Input:
+//            2
+//    Output:
+//            2
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
