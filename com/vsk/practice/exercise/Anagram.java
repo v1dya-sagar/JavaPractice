@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class Anagram {
     public static void main(String[] args) {
-        //with sorting
+        //with sorting in this code
         String s1 = "anagram";
         String s2 = "mrganaa";
        if(s1.length() == s2.length()){
