@@ -20,3 +20,4 @@ public class DiceRoll {
         System.out.println(sum);
     }
 }
+
