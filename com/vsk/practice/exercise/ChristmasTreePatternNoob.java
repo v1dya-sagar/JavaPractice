@@ -20,7 +20,7 @@ public class ChristmasTreePatternNoob {
                 System.out.println();
             }
 
-            // Print the tree trunk
+
             for (int i = 0; i < 2; i++) {
                 for (int j = 0; j < height - 1; j++) {
                     System.out.print(" ");
