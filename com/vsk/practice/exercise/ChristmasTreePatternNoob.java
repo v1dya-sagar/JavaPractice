@@ -3,7 +3,7 @@ package com.vsk.practice.exercise;
 public class ChristmasTreePatternNoob {
 
         public static void main(String[] args) {
-            int height = 5;
+            int height = 5; // Height of the tree
             printChristmasTree(height);
         }
 
