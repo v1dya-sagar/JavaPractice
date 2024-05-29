@@ -2,7 +2,7 @@ package com.vsk.practice.exercise;
 
 public class StepNumber {
     public static void main(String[] args) {
-        int n = 123456,flag = 0;
+        int n = 456,flag = 0;
         String s = Integer.toString(n);
         for(int i = 0; i<s.length(); i++){
             if(i == s.length()-1){
