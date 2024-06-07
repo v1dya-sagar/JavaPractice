@@ -2,7 +2,7 @@ package com.vsk.practice.exercise;
 
 public class HollowPyramidPattern {
         public static void main(String[] args) {
-            int n = 5;
+            int n = 10;
             int middle_spaces = 1;
             for(int i = 1; i <= n; i++){
                 int spaces = n - i;

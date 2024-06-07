@@ -12,7 +12,7 @@ public class ArmstrongNumberFinderFOrAnyNumberOfDigits {
             int sum = 0, temp = num;
             while (num != 0) {
                 int rem = num % 10;
-                sum += Math.pow(rem, digits);
+                sum += (int) Math.pow(rem, digits);
                 num /= 10;
             }
             if (temp == sum) {
