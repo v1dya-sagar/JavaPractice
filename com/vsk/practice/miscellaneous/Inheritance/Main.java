@@ -1,4 +1,4 @@
-package com.timbuchalka;
+package com.vsk.practice.miscellaneous.Inheritance;
 
 public class Main extends Object{
 
