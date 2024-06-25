@@ -2,7 +2,7 @@ package com.vsk.practice.miscellaneous.Zoho;
 
 public class RationalToMixedFraction {
     public static void main(String[] args) {
-        float givenNumber = 6.25f;
+        float givenNumber = 1.75f;
         System.out.println(toMixedFraction(givenNumber));
     }
     public static String toMixedFraction(double number) {
