@@ -1,4 +1,4 @@
-package com.vsk.practice.miscellaneous.Zoho;
+package com.vsk.practice.miscellaneous.Zoho.Patterns;
 
 public class XPatternForOddLengthString {
     public static void main(String[] args) {
