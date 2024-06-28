@@ -2,11 +2,11 @@ package com.vsk.practice.exercise;
 
 public class BiggerThanNumber {
     public static void main(String[] args) {
-        int[] givenArray = {8, 1, 4, 6, 9, 5};
+        int[] givenArray = {5,4,3,2,1};
         for (int j = 0; j < givenArray.length; j++) {
             int next = -1;
             if (j == givenArray.length - 1) {
-                for (int i = givenArray.length - 2; i >= 0; i++) {
+                for (int i = givenArray.length - 2; i >= 0; i--) {
                     if (givenArray[i] > givenArray[j]) {
                         next = givenArray[i];
                         break;
