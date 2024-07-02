@@ -1,11 +1,12 @@
-package com.vsk.practice.exercise;
+package com.vsk.practice.miscellaneous.Zoho;
 
 import java.util.Scanner;
 
 public class PrintOneToNZoho {
 
 //    Print 1to N - Digits Count [ZOHO]
-//    A positive integer N is passed as the input. If we print all the numbers from 1 to N continuosly, the program must find the number of characters(dig1‘ts) C printed and print the count C as the output-
+//    A positive integer N is passed as the input. If we print all the numbers from 1 to N continuously,
+//    the program must find the number of characters(digits) C printed and print the count C as the output
 //    Input Format:
 //    The first line contains N.
 //    Output Format:

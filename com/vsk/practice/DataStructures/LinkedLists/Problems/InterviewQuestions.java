@@ -1,4 +1,4 @@
-package com.vsk.practice.DataStructures.LinkedLists;
+package com.vsk.practice.DataStructures.LinkedLists.Problems;
 public class InterviewQuestions {
 
     // https://leetcode.com/problems/linked-list-cycle
