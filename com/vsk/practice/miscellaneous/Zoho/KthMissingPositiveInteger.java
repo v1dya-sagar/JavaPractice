@@ -2,6 +2,7 @@ package com.vsk.practice.miscellaneous.Zoho;
 
 public class KthMissingPositiveInteger {
     public static void main(String[] args) {
+        // 1 5 6 8 9 10 12 -> infinity
         int[] arr = {2,3,4,7,11};
         int k = 5;
         System.out.println(findKthPositive(arr,k));
