@@ -25,6 +25,7 @@ public class JavaInbuilt {
         queue.add(19);
         queue.add(1);
 
+
         System.out.println(queue.remove());
         System.out.println(queue.remove());
 
