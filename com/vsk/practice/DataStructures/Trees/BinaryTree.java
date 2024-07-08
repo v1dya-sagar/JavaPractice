@@ -57,6 +57,7 @@ public class BinaryTree {
         if (node == null) {
             return;
         }
+
         System.out.println(indent + node.value);
         display(node.left, indent + "\t");
         display(node.right, indent + "\t");
