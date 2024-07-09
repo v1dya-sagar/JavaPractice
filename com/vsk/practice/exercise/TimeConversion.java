@@ -1,4 +1,4 @@
-package com.vsk.practice.exercise.LeetCodeDaily;
+package com.vsk.practice.exercise;
 
 public class TimeConversion {
     public static void main(String[] args) {

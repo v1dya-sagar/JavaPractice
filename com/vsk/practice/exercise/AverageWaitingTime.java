@@ -1,4 +1,4 @@
-package com.vsk.practice.exercise.LeetCodeDaily;
+package com.vsk.practice.exercise;
 
 public class AverageWaitingTime {
     public double averageWaitingTime(int[][] cus) {
