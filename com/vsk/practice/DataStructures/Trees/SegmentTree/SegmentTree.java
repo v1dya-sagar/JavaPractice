@@ -32,7 +32,7 @@ class SegmentTree {
 
         // create new node with index you are at
         Node node = new Node(start, end);
-
+        // make intervals based on mid
         int mid = (start + end) / 2;
 
         node.left = this.constructTree(arr, start, mid);
@@ -83,6 +83,7 @@ class SegmentTree {
         if(node.startInterval >= qsi && node.endInterval <= qei) {
             // node is completely lying inside query
             return node.data;
+
         } else if (node.startInterval > qei || node.endInterval < qsi) {
             // completely outside
             return 0;
