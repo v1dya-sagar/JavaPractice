@@ -1,4 +1,4 @@
-package com.vsk.practice.exercise.daily;
+package com.vsk.practice.exercise.LeetCodeDaily;
 
 public class ArrayOperations {
     public static void main(String[] args) {

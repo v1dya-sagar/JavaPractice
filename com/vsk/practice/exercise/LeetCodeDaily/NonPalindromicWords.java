@@ -1,4 +1,4 @@
-package com.vsk.practice.exercise.daily.example;
+package com.vsk.practice.exercise.LeetCodeDaily;
 
 import java.util.Arrays;
 

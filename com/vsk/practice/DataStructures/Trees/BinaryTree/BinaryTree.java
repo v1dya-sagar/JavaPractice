@@ -1,4 +1,4 @@
-package com.vsk.practice.DataStructures.Trees;
+package com.vsk.practice.DataStructures.Trees.BinaryTree;
 
 import java.util.Scanner;
 

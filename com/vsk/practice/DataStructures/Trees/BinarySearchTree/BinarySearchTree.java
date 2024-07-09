@@ -1,4 +1,4 @@
-package com.vsk.practice.DataStructures.Trees;
+package com.vsk.practice.DataStructures.Trees.BinarySearchTree;
 
 public class BinarySearchTree {
     public class Node {
