@@ -1,5 +1,12 @@
 package com.vsk.practice.DataStructures.Trees.Problems;
 
+/**
+ * created by : v1dya-sagar on 10-07-2024
+ *
+ * @author : v1dya-sagar
+ * @date : 10-07-2024
+ * @project : JavaPractice
+ */
 public class TreeNode {
     public int val;
     public TreeNode left;
@@ -12,3 +19,4 @@ public class TreeNode {
         this.right = right;
     }
 }
+
