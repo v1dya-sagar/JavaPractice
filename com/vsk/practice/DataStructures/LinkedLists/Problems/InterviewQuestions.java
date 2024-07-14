@@ -12,6 +12,7 @@ public class InterviewQuestions {
             slow = slow.next;
             if (fast == slow) {
                 return true;
+
             }
         }
         return false;
