@@ -2,7 +2,7 @@ package com.vsk.practice.DataStructures.Stacks.Problems;
 
 import java.util.Stack;
 
-public class ImplementQueueUsingStack {
+public class ImplementQueueUsingStacks {
     public static void main(String[] args) {
 
     }
